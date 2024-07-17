@@ -1,124 +1,120 @@
 # Girls-In-AI
 
-**Coding is the new sexy.** 
+**Coding is the new sexy.**
 
-**GirlsInAI（GIA）** 是一个面向编程 **零基础** 的AI算法工程师养成计划。鼓励更多的女孩子去学习编程甚至成为科技行业的领袖。希望大家都能站在食物链上游看一看，因为风景真的很好。入门帖：[如何成为一名AI算法工程师](https://weibo.com/3340707810/GBryiyz3T) 
+**GirlsInAI (GIA)** is a training program for AI algorithm engineers aimed at those with **zero programming background**. It encourages more girls to learn programming and even become leaders in the technology industry. We hope everyone can stand at the top of the food chain and take a look because the scenery is really great. Introduction post: [How to become an AI algorithm engineer](https://weibo.com/3340707810/GBryiyz3T)
 
-欢迎关注微博账号 [@Girls-In-AI](https://m.weibo.cn/profile/2650740963)，获取Girls-In-AI的最新内容，一起遇见更多喜欢AI喜欢代码的女孩子🙌~
+Follow the Weibo account [@Girls-In-AI](https://m.weibo.cn/profile/2650740963) to get the latest content from Girls-In-AI and meet more girls who love AI and coding🙌~
 
-![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/artworks/gia.jpg?raw=true) 
-
-
+![](https://github.com/YZHANG1270/Girls-In-AI/blob/master/others/pics/artworks/gia.jpg?raw=true)
 
 ## machine_learning_diary
 
-**machine_learning_diary** 是 **人工智能工程师** 养成日记系列，代号简称**ML-Diary**。每次的课程以日记的形式发布，但不是日更的节奏。希望大家通过每天进步一点点，成为一个AI killer😝
+**machine_learning_diary** is a series of **AI engineer** training diaries, code-named **ML-Diary**. Each course is released in the form of a diary, but not on a daily basis. We hope everyone can make a little progress every day and become an AI killer😝
 
-每一个小日记，learn by doing，用来记录你在机器学习的点滴痕迹。
+Each small diary, learn by doing, is used to record your traces in machine learning.
 
-- 环境：Windows / MacOS
-- 工具：Anaconda - Jupyter Notebook
-- 版本：Python 3
+- Environment: Windows / MacOS
+- Tools: Anaconda - Jupyter Notebook
+- Version: Python 3
 
-说明：每个课程最左方框为【熟肉】标志，若有链接却未打勾✔，则仍为生肉，供参考学习。
+Note: The leftmost box of each course is marked with 【熟肉】 (familiar content). If there is a link but it is not checked ✔, it is still raw content for reference and learning.
 
+### Phase 1: Python Basics for Beginners
 
+##### Course List
 
-### 第一期：小白Python入门
-
-##### 课程列表
-
-- [x] Day-0：[注册GitHub，star点亮Girls-In-AI](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/github/signup.md)
-- [x] Day-1：[初识 Python](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/print/README.md)
-- [x] 番外：[GitHub-Issue：正确的提问方式](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/github/issue.md)
-- [x] 番外：[Terminal的打开方式](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/terminal/start.md)
-- [x] Day-2：[Python 配置环境变量](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/env_config/Python_for_WIN.md)
-- [x] 番外：[Jupyter Notebook 的多种打开方式](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/anaconda/jupyter/start.md)
-- [x] Day-3：[数据类型简介](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/data_type/data_type.md)
-- [x] Day-4：[variable 变量](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/data_type/variable.md)
-- [x] Day-5：[bool 布尔值](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/data_type/bool.md)
-- [x] Day-6：[string 字符串](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/data_type/string.md)
-- [x] Day-7：[数据类型转换](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/data_type/type_trans.md)
-- [x] Day-8：[list 列表](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/data_type/list.md)
-- [x] Day-9：[dict 字典](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/data_type/dict.md)
-- [x] Day-10：[if 条件判断](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/if/if.md)
-- [x] Day-11：[while/break/continue 循环](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/loop/while.md) 
-- [x] Day-12：[for 循环](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/loop/for.md)
-- [x] Day-13：[try/except 异常处理](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary/base/try_except)
-- [x] Day-14：[function 函数](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/function/func.md)
-- [x] Day-15：[读/写 txt](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/read_write/read_write_txt.ipynb) 
-- [x] Day-16：[pip install xxx](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/package/import.md) 
-- [x] Day-17：[初识 dataframe](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/data_type/dataframe.ipynb) 
-- [x] Day-18：[下载/保存 excel](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/read_write/read_save_excel.ipynb) 
-- [x] Day-19：[面向对象编程](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/class/class_1.ipynb) 
-- [ ] Day-20：[datetime](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/python-data/datetime.ipynb)  
+- [x] Day-0: [Register GitHub, star and light up Girls-In-AI](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/github/signup.md)
+- [x] Day-1: [Introduction to Python](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/print/README.md)
+- [x] Extra: [GitHub Issue: Correct Way to Ask Questions](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/github/issue.md)
+- [x] Extra: [How to Open Terminal](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/terminal/start.md)
+- [x] Day-2: [Python Environment Variable Configuration](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/env_config/Python_for_WIN.md)
+- [x] Extra: [Various Ways to Open Jupyter Notebook](https://github.com/YZHANG1270/Girls-In-AI/blob/master/tools/anaconda/jupyter/start.md)
+- [x] Day-3: [Introduction to Data Types](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/data_type/data_type.md)
+- [x] Day-4: [Variable](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/data_type/variable.md)
+- [x] Day-5: [Boolean](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/data_type/bool.md)
+- [x] Day-6: [String](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/data_type/string.md)
+- [x] Day-7: [Data Type Conversion](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/data_type/type_trans.md)
+- [x] Day-8: [List](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/data_type/list.md)
+- [x] Day-9: [Dictionary](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/data_type/dict.md)
+- [x] Day-10: [Conditional Statements](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/if/if.md)
+- [x] Day-11: [While/Break/Continue Loop](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/loop/while.md)
+- [x] Day-12: [For Loop](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/loop/for.md)
+- [x] Day-13: [Try/Except Exception Handling](https://github.com/YZHANG1270/Girls-In-AI/tree/master/machine_learning_diary/base/try_except)
+- [x] Day-14: [Function](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/function/func.md)
+- [x] Day-15: [Read/Write txt](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/read_write/read_write_txt.ipynb)
+- [x] Day-16: [pip install xxx](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/package/import.md)
+- [x] Day-17: [Introduction to DataFrame](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/data_type/dataframe.ipynb)
+- [x] Day-18: [Download/Save Excel](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/read_write/read_save_excel.ipynb)
+- [x] Day-19: [Object-Oriented Programming](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/base/class/class_1.ipynb)
+- [ ] Day-20: [datetime](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/python-data/datetime.ipynb)
 - [ ] To be continued...
 
 
 
-### 第二期：成为数据分析师 Data Analyst
+### Second Phase: Becoming a Data Analyst
 
 Python Data Science Handbook [[book](https://jakevdp.github.io/PythonDataScienceHandbook/)]
 
-##### 课程列表
+##### Course List
 
-- [x] Day-21：[初识Kaggle：Titanic](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/data_analysis/kaggle_intro.md) 
-- [x] Day-22：[初识 Pandas, Matplotlib, Numpy：柱状图、折线图、箱图](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/data_analysis/titanic_plot.ipynb) 
+- [x] Day-21: [Introduction to Kaggle: Titanic](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/data_analysis/kaggle_intro.md)
+- [x] Day-22: [Introduction to Pandas, Matplotlib, Numpy: Bar Charts, Line Charts, Box Plots](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/data_analysis/titanic_plot.ipynb)
 
-**Pandas** 
+**Pandas**
 
-- [x] Day-23：[Pandas 基础1](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/data_analysis/Pandas.ipynb) 
-- [ ] Day-24：[Pandas 基础2](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/pandas.ipynb) 
-- [ ] Day-25：[Pandas 对象](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.01-Introducing-Pandas-Objects.ipynb) 
-- [ ] Day-26：[Pandas 数据索引](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.02-Data-Indexing-and-Selection.ipynb) 
-- [ ] Day-27：[Pandas 数据操作](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.03-Operations-in-Pandas.ipynb) 
-- [ ] Day-28：[Pandas 处理缺失值](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.04-Missing-Values.ipynb) 
-- [ ] Day-29：[Pandas 多层索引](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.05-Hierarchical-Indexing.ipynb) 
-- [ ] Day-30：[Pandas 汇总和频数统计](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/data_analysis/pandas_count.ipynb) 
-- [ ] Day-31：[Pandas: Concat and Append](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.06-Concat-And-Append.ipynb) 
-- [ ] Day-32：[Pandas: Merge and Join](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.07-Merge-and-Join.ipynb) 
-- [ ] Day-33：[Pandas: Aggregation and Grouping](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.08-Aggregation-and-Grouping.ipynb) 
-- [ ] Day-34：[Pandas: Pivot Tables](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.09-Pivot-Tables.ipynb) 
-- [ ] Day-35：[Pandas 矢量化字符串操作](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.10-Working-With-Strings.ipynb) 
-- [ ] Day-36：[Pandas 时间序列](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.11-Working-with-Time-Series.ipynb) 
-- [ ] Day-37：[Pandas 高级使用](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.12-Performance-Eval-and-Query.ipynb) 
+- [x] Day-23: [Pandas Basics 1](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/data_analysis/Pandas.ipynb)
+- [ ] Day-24: [Pandas Basics 2](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/pandas.ipynb)
+- [ ] Day-25: [Pandas Objects](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.01-Introducing-Pandas-Objects.ipynb)
+- [ ] Day-26: [Pandas Data Indexing](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.02-Data-Indexing-and-Selection.ipynb)
+- [ ] Day-27: [Pandas Data Operations](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.03-Operations-in-Pandas.ipynb)
+- [ ] Day-28: [Pandas Handling Missing Values](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.04-Missing-Values.ipynb)
+- [ ] Day-29: [Pandas Multi-Indexing](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.05-Hierarchical-Indexing.ipynb)
+- [ ] Day-30: [Pandas Summary and Frequency Statistics](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/data_analysis/pandas_count.ipynb)
+- [ ] Day-31: [Pandas: Concat and Append](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.06-Concat-And-Append.ipynb)
+- [ ] Day-32: [Pandas: Merge and Join](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.07-Merge-and-Join.ipynb)
+- [ ] Day-33: [Pandas: Aggregation and Grouping](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.08-Aggregation-and-Grouping.ipynb)
+- [ ] Day-34: [Pandas: Pivot Tables](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.09-Pivot-Tables.ipynb)
+- [ ] Day-35: [Pandas Vectorized String Operations](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.10-Working-With-Strings.ipynb)
+- [ ] Day-36: [Pandas Time Series](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.11-Working-with-Time-Series.ipynb)
+- [ ] Day-37: [Pandas Advanced Usage](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/pandas/03.12-Performance-Eval-and-Query.ipynb)
 
-**Matplotlib** 
+**Matplotlib**
 
-- [ ] Day-38：[Matplotlib 基础绘图](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/matplotlib.ipynb) 
-- [ ] Day-39：[Matplotlib Titanic应用](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/matplotlib-applied.ipynb) 
-- [ ] Day-40：[Matplotlib 简单介绍](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.00-Introduction-To-Matplotlib.ipynb) 
-- [ ] Day-41：[Matplotlib 曲线图](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.01-Simple-Line-Plots.ipynb) 
-- [ ] Day-42：[Matplotlib 散点图](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.02-Simple-Scatter-Plots.ipynb) 
-- [ ] Day-43：[Matplotlib 可视化错误](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.03-Errorbars.ipynb) 
-- [ ] Day-44：[Matplotlib 密度图](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.04-Density-and-Contour-Plots.ipynb) 
-- [ ] Day-45：[Matplotlib 直方图，平移和密度可视化](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.05-Histograms-and-Binnings.ipynb) 
-- [ ] Day-46：[Matplotlib 自定义绘图](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.06-Customizing-Legends.ipynb) 
-- [ ] Day-47：[Matplotlib 自定义色彩](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.07-Customizing-Colorbars.ipynb) 
-- [ ] Day-48：[Matplotlib 多子图绘制](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.08-Multiple-Subplots.ipynb) 
-- [ ] Day-49：[Matplotlib 用图说话](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.09-Text-and-Annotation.ipynb) 
-- [ ] Day-50：[Matplotlib 自定义刻度](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.10-Customizing-Ticks.ipynb) 
-- [ ] Day-51：[Matplotlib 自定义风格绘图](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.11-Settings-and-Stylesheets.ipynb) 
-- [ ] Day-52：[Matplotlib 三维图绘制](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.12-Three-Dimensional-Plotting.ipynb) 
-- [ ] Day-53：[Matplotlib 地理图绘制](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.13-Geographic-Data-With-Basemap.ipynb) 
-- [ ] Day-54：[Matplotlib 与Seaborn碰撞](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.14-Visualization-With-Seaborn.ipynb) 
+- [ ] Day-38: [Matplotlib Basic Plotting](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/matplotlib.ipynb)
+- [ ] Day-39: [Matplotlib Titanic Application](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/matplotlib-applied.ipynb)
+- [ ] Day-40: [Matplotlib Simple Introduction](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.00-Introduction-To-Matplotlib.ipynb)
+- [ ] Day-41: [Matplotlib Line Plots](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.01-Simple-Line-Plots.ipynb)
+- [ ] Day-42: [Matplotlib Scatter Plots](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.02-Simple-Scatter-Plots.ipynb)
+- [ ] Day-43: [Matplotlib Visualizing Errors](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.03-Errorbars.ipynb)
+- [ ] Day-44: [Matplotlib Density Plots](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.04-Density-and-Contour-Plots.ipynb)
+- [ ] Day-45: [Matplotlib Histograms, Binning, and Density](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.05-Histograms-and-Binnings.ipynb)
+- [ ] Day-46: [Matplotlib Customizing Plots](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.06-Customizing-Legends.ipynb)
+- [ ] Day-47: [Matplotlib Customizing Colors](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.07-Customizing-Colorbars.ipynb)
+- [ ] Day-48: [Matplotlib Multiple Subplots](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.08-Multiple-Subplots.ipynb)
+- [ ] Day-49: [Matplotlib Text and Annotation](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.09-Text-and-Annotation.ipynb)
+- [ ] Day-50: [Matplotlib Customizing Ticks](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.10-Customizing-Ticks.ipynb)
+- [ ] Day-51: [Matplotlib Customizing Plot Styles](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.11-Settings-and-Stylesheets.ipynb)
+- [ ] Day-52: [Matplotlib 3D Plotting](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.12-Three-Dimensional-Plotting.ipynb)
+- [ ] Day-53: [Matplotlib Geographic Plotting](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.13-Geographic-Data-With-Basemap.ipynb)
+- [ ] Day-54: [Matplotlib with Seaborn](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/matplotlib/04.14-Visualization-With-Seaborn.ipynb)
 
-**Numpy** 
+**Numpy**
 
-- [ ] Day-55：[Numpy 基础1](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/data_analysis/NumPy.ipynb) 
-- [ ] Day-56：[Numpy 基础2](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/numpy.ipynb) 
-- [ ] Day-57：[Numpy 数据类型介绍](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.01-Understanding-Data-Types.ipynb) 
-- [ ] Day-58：[Numpy 数列Array](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.02-The-Basics-Of-NumPy-Arrays.ipynb) 
-- [ ] Day-59：[Numpy 转置](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/data_analysis/transpose.ipynb) 
-- [ ] Day-60：[Numpy 常用计算](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.03-Computation-on-arrays-ufuncs.ipynb) 
-- [ ] Day-61：[Numpy 聚合](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.04-Computation-on-arrays-aggregates.ipynb) 
-- [ ] Day-62：[Numpy 数列计算](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.05-Computation-on-arrays-broadcasting.ipynb) 
-- [ ] Day-63：[Numpy 比较，掩码和布尔逻辑](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.06-Boolean-Arrays-and-Masks.ipynb) 
-- [ ] Day-64：[Numpy 花式索引](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.07-Fancy-Indexing.ipynb) 
-- [ ] Day-65：[Numpy 数组排序](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.08-Sorting.ipynb) 
-- [ ] Day-66：[Numpy 结构化数组](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.09-Structured-Data-NumPy.ipynb) 
+- [ ] Day-55: [Numpy Basics 1](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/data_analysis/NumPy.ipynb)
+- [ ] Day-56: [Numpy Basics 2](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/numpy.ipynb)
+- [ ] Day-57: [Introduction to Numpy Data Types](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.01-Understanding-Data-Types.ipynb)
+- [ ] Day-58: [Numpy Arrays](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.02-The-Basics-Of-NumPy-Arrays.ipynb)
+- [ ] Day-59: [Numpy Transpose](https://github.com/YZHANG1270/Girls-In-AI/blob/master/machine_learning_diary/data_analysis/transpose.ipynb)
+- [ ] Day-60: [Common Numpy Calculations](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.03-Computation-on-arrays-ufuncs.ipynb)
+- [ ] Day-61: [Numpy Aggregation](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.04-Computation-on-arrays-aggregates.ipynb)
+- [ ] Day-62: [Numpy Array Computations](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.05-Computation-on-arrays-broadcasting.ipynb)
+- [ ] Day-63: [Numpy Comparisons, Masks, and Boolean Logic](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.06-Boolean-Arrays-and-Masks.ipynb)
+- [ ] Day-64: [Numpy Fancy Indexing](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.07-Fancy-Indexing.ipynb)
+- [ ] Day-65: [Numpy Array Sorting](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.08-Sorting.ipynb)
+- [ ] Day-66: [Numpy Structured Arrays](https://nbviewer.jupyter.org/github/donnemartin/data-science-ipython-notebooks/blob/master/numpy/02.09-Structured-Data-NumPy.ipynb)
 
-**To be continued...** 
+**To be continued...**
 
 - [ ] Day-67：数据标准化，正则化，
 - [ ] Day-68：One-Hot encoding
